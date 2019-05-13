@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/uc?export=download&id=18O2xDro3YbAXTlIZzWK8uoyh2ponuWq-'
-export_file_name = 'flowers_resnext101_1.pth'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1ro7GMnTIMASgQqDg-ja2GAov6jm-pJAF'
+export_file_name = 'my_keras_model.h5'
 
 classes = ['rose', 'daisy', 'dandelion', 'tulip', 'sunflower']
 path = Path(__file__).parent
